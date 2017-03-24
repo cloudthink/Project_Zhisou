@@ -1,2 +1,2 @@
 # zhisou
-Pytohn搜索引擎-只开源部分代码
+Pytohn搜索引擎-部分代码
