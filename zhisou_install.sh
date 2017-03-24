@@ -1,13 +1,21 @@
 #!/bin/sh
 
 #please use: wget https://*/*.sh && bash *.sh
+<<<<<<< HEAD
 #cd ~/.ssh
 #ssh-keygen -t rsa -C "@qq.com"
+=======
+
+>>>>>>> 6ad74dad4141dabfcc36298c680238b4100e9558
 
 
 yum -y install sudo git tar wget
 
+<<<<<<< HEAD
 #scp -r /Users/zychen/code/zhisearch_linux root@:/home
+=======
+#scp -r /Users/zychen/code/zhisearch_linux root@*:/home
+>>>>>>> 6ad74dad4141dabfcc36298c680238b4100e9558
 
 yum -y install anaconda
 
