@@ -2,14 +2,12 @@
 
 #please use: wget https://*/*.sh && bash *.sh
 #cd ~/.ssh
-#ssh-keygen -t rsa -C "824858863@qq.com"
-#echo "added key in csdn?"
-#git clone git@code.csdn.net:Datapad/zhisearch.git
+#ssh-keygen -t rsa -C "@qq.com"
 
 
 yum -y install sudo git tar wget
 
-#scp -r /Users/zychen/code/zhisearch_linux root@209.141.49.76:/home
+#scp -r /Users/zychen/code/zhisearch_linux root@:/home
 
 yum -y install anaconda
 
